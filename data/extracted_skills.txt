@@ -1,0 +1,18 @@
+tableau
+java
+machine learning
+javascript
+mysql
+python
+mongodb
+sql
+rest api
+c++
+data structures
+scikit-learn
+docker
+postgresql
+algorithms
+aws
+tensorflow
+flask
