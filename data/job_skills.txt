@@ -1,0 +1,13 @@
+machine learning
+tableau
+mongodb
+tensorflow
+flask
+python
+algorithms
+data structures
+rest api
+sql
+aws
+java
+docker

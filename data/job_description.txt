@@ -1,0 +1,21 @@
+We are looking for a Software Engineer Intern with strong programming skills in Python and Java.
+
+Required Skills:
+- Python
+- SQL
+- Machine Learning
+- Data Structures
+- Algorithms
+- AWS
+- Docker
+- REST APIs
+- Git
+- Flask
+
+Preferred Skills:
+- TensorFlow
+- MongoDB
+- Tableau
+
+Responsibilities:
+Develop scalable software solutions, analyze data pipelines, and deploy machine learning models.
