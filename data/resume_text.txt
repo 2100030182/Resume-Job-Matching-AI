@@ -1,0 +1,47 @@
+Ajay Gottipati
+Denton, TX
+(cid:211) 940-595-0019  ajaygottipati2025@gmail.com fl LinkedIn
+Summary
+Graduate Computer Science student with hands-on experience in machine learning research, distributed systems,
+and cloud-based software development. Strong interest in applied ML research and building real-world, impactful
+applications through data-driven solutions.
+Education
+University of North Texas, Denton, TX May 2027(Expected)
+Master of Science in Computer Science
+Koneru Lakshmaiah Educational Foundation, Vijayawada, India Sep 2021 – May 2025
+Bachelor of Technology in Computer Science CGPA: 9.1/10
+Technical Skills
+Programming Languages: Python, Java, C++, SQL, JavaScript
+Machine Learning: Supervised Learning, CNNs, Feature Engineering, Model Evaluation
+Frameworks & Tools: Tableau, Scikit-learn, TensorFlow, Spring Boot, Flask, Git, Docker
+Cloud & Data: AWS (EC2, S3, RDS), MySQL, PostgreSQL, MongoDB
+Core Concepts: Data Structures & Algorithms, Distributed Systems, Object-Oriented Design, REST APIs
+Experience
+Data Analyst Intern Mar 2025 – Aug 2025
+Advansoft, Hyderabad India
+• Optimized SQL queries on large datasets, improving reporting performance by 30%.
+• Developed interactive Tableau dashboards to visualize complex datasets, enabling stakeholders to identify key
+business trends and performance metrics.
+• Automated data extraction and validation workflows using Python and SQL, reducing manual effort by 40%.
+• Collaborated with engineers and analysts to translate business requirements into data-driven insights.
+Research Projects (Machine Learning)
+Soil Image Classification for Crop Recommendation Python, CNN, SVM
+• Conducted undergraduate research on classifying high-resolution soil images using Convolutional Neural Net-
+works.
+• Applied image preprocessing and feature extraction techniques to improve model robustness.
+• Integrated SVM with CNN-extracted features, improving classification accuracy.
+• Developed a prototype web interface to assist farmers in crop selection.
+Missing Child Identification System (Proposed Research) Python, ML, Computer Vision
+• Designed an ML-based system for missing child identification using facial recognition techniques.
+• Focused on dataset preprocessing, model evaluation, and ethical ML considerations.
+• Targeted real-world social impact through applied machine learning research.
+Academic Projects
+Distributed Concurrency Simulation C++, Multithreading
+• Simulated a high-concurrency environment with 1000+ threads using mutexes and semaphores.
+• Ensured thread safety, fairness, and deadlock prevention.
+AI-Based Puzzle Solver Python, A* Search
+• Implemented an A* search-based solver for the 8-puzzle problem.
+• Reduced average solution time by 25% through state-space pruning.Certifications
+AWS Certified Cloud Practitioner
+Google Associate Cloud Engineer
+Red Hat Certified Enterprise Application Developer
