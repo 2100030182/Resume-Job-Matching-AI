@@ -1,13 +1,18 @@
 machine learning
-tableau
-mongodb
-tensorflow
-flask
-python
-algorithms
-data structures
-rest api
-sql
 aws
+rest api
+algorithms
+tableau
+python
 java
+tensorflow
+mongodb
 docker
+kubernetes
+data structures
+node.js
+redis
+flask
+graphql
+react
+sql

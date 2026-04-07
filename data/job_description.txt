@@ -11,6 +11,11 @@ Required Skills:
 - REST APIs
 - Git
 - Flask
+- Kubernetes
+- React
+- Node.js
+- Redis
+- GraphQL
 
 Preferred Skills:
 - TensorFlow

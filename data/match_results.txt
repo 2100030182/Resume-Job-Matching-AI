@@ -1,18 +1,23 @@
-Match Score: 100.00%
+Match Score: 72.22%
 
 Matched Skills:
-docker
-algorithms
-mongodb
-java
-flask
-sql
-data structures
-rest api
-python
 tensorflow
+docker
 machine learning
 tableau
+java
+data structures
+sql
+python
 aws
+rest api
+mongodb
+flask
+algorithms
 
 Missing Skills:
+react
+kubernetes
+graphql
+node.js
+redis

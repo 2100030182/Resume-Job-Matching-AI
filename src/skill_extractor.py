@@ -23,7 +23,12 @@ SKILLS_DB = [
     "postgresql",
     "rest api",
     "data structures",
-    "algorithms"
+    "algorithms",
+    "kubernetes",
+    "react",
+    "node.js",
+    "redis",
+    "graphql"
 ]
 
 
